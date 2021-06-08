@@ -1,4 +1,5 @@
 #JSimpleSynth
+
 Joshua Lund
 
 This is a basic synthesizer to play sounds and sound recordings based on keys
